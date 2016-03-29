@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.053203111303620876
+  lightness: 0.5903258297320004
+  rhythmicContrast: 0.9485267772995158
+  saturation: 0.05269232680861158
+cta: {}
+layout_spectrum: 0.9429111856682695
+name: CobraArcade
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.48672267296814864
